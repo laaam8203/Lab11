@@ -22,7 +22,7 @@ using namespace std;
     cout << "sum2:"<<sum2 << " ";
 
 
-    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+    vector<string> msg {"This", "is", "Lab11"};
 
     for (const string& word : msg)
     {
